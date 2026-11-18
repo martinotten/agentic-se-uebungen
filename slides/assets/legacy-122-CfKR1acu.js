@@ -1,0 +1,1 @@
+var e=`/agentic-se-uebungen/slides/assets/legacy-122-DxGnr_Kt.png`;export{e as t};

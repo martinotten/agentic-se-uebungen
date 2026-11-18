@@ -1,0 +1,1 @@
+var e=`/agentic-se-uebungen/slides/logos/claude.svg`;export{e as t};

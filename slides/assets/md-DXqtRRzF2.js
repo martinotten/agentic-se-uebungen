@@ -1,0 +1,5 @@
+import{H as e,St as t,b as n,bt as r,k as i,tt as a,x as o,y as s}from"./modules/shiki-mCy7fDAa.js";import{at as c,ot as l}from"./index-ORicUbh4.js";import{t as u}from"./takeaways-DUqqkkqD.js";var d={__name:`slides.md__slidev_398`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),n(u,t(i(r(c)(r(v),397))),{default:a(()=>[d[0]||=s(`ol`,null,[s(`li`,null,`Tests are the agent’s feedback loop`),s(`li`,null,`Mutation testing checks the tests themselves`),s(`li`,null,`Agents make contract and property-based tests affordable`),s(`li`,null,`Agents can turn UI flows into Playwright tests`),s(`li`,null,`Any review is better than no review`)],-1),o(`
+Punkt 4 bezieht sich auf E2E-Tests: Agenten bedienen die UI per Playwright und machen daraus Tests.
+
+Punkt 5 ist der Übergang zu QA und Pipeline: Auch ein Review durch einen Agenten ist besser als keines – und es kann als Job in der Pipeline laufen (Kapitel 6).
+`)]),_:1},16))}};export{d as default};

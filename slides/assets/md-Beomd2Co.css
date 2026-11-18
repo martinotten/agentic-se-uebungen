@@ -1,0 +1,1 @@
+.candidate-row{animation:.25s ease-out both candidate-fade-in}@keyframes candidate-fade-in{0%{opacity:0}to{opacity:1}}

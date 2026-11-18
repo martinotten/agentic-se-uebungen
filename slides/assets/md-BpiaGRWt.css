@@ -1,0 +1,1 @@
+.ascii-spinner-track{animation-name:ascii-spinner-scroll;animation-duration:.8s;animation-timing-function:steps(10,end);animation-iteration-count:infinite;display:inline-flex}@keyframes ascii-spinner-scroll{0%{transform:translate(0)}to{transform:translate(-100%)}}

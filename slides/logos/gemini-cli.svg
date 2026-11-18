@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 350 350">
+  <mask id="a" width="292" height="292" x="29" y="29" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#fff" d="M267.7 29H82.3A53.3 53.3 0 0 0 29 82.3v185.4A53.3 53.3 0 0 0 82.3 321h185.4a53.3 53.3 0 0 0 53.3-53.3V82.3A53.3 53.3 0 0 0 267.7 29"/>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#1e1e2e" d="M267.7 29H82.3A53.3 53.3 0 0 0 29 82.3v185.4A53.3 53.3 0 0 0 82.3 321h185.4a53.3 53.3 0 0 0 53.3-53.3V82.3A53.3 53.3 0 0 0 267.7 29"/>
+    <path fill="url(#b)" d="M268.4 29c29.1.4 52.6 24 52.6 53.3v186.1a53.3 53.3 0 0 1-53.3 52.6H82.3A53.3 53.3 0 0 1 29 267.7V82.3C29 53 52.5 29.3 81.6 29zM82.3 46C62.3 46 46 62.4 46 82.4v185.4c0 20 16.2 36.2 36.2 36.2h185.4c20 0 36.2-16.2 36.2-36.2V82.3c0-20-16.2-36.2-36.2-36.2zM233 156.4v44.5l-115.8 55.7v-32.3l94.9-45.7-95-45.6v-32.4z"/>
+    <path fill="url(#c)" d="M268.4 29c29.1.4 52.6 24 52.6 53.3v186.1a53.3 53.3 0 0 1-53.3 52.6H82.3A53.3 53.3 0 0 1 29 267.7V82.3C29 53 52.5 29.3 81.6 29zM82.3 46C62.3 46 46 62.4 46 82.4v185.4c0 20 16.2 36.2 36.2 36.2h185.4c20 0 36.2-16.2 36.2-36.2V82.3c0-20-16.2-36.2-36.2-36.2zM233 156.4v44.5l-115.8 55.7v-32.3l94.9-45.7-95-45.6v-32.4z"/>
+  </g>
+  <defs>
+    <linearGradient id="b" x1="97.2" x2="253.3" y1="176.1" y2="176.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#406afb"/>
+      <stop offset=".2" stop-color="#078efb"/>
+      <stop offset=".4" stop-color="#939aff"/>
+      <stop offset=".6" stop-color="#d698fc"/>
+      <stop offset=".8" stop-color="#fa6178"/>
+      <stop offset="1" stop-color="#f2554f"/>
+    </linearGradient>
+    <linearGradient id="c" x1="29" x2="321" y1="176.1" y2="176.1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#217bfe"/>
+      <stop offset=".3" stop-color="#078efb"/>
+      <stop offset=".7" stop-color="#ac87eb"/>
+      <stop offset="1" stop-color="#ee4d5d"/>
+    </linearGradient>
+  </defs>
+</svg>

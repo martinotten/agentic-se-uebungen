@@ -1,0 +1,1 @@
+var e=`/agentic-se-uebungen/slides/logos/codex.svg`,t=`/agentic-se-uebungen/slides/logos/gemini-cli.svg`,n=`/agentic-se-uebungen/slides/logos/opencode-square.svg`;export{t as n,e as r,n as t};

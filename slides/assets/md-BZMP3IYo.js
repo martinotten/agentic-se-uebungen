@@ -1,0 +1,6 @@
+import{H as e,St as t,b as n,bt as r,k as i,tt as a,x as o,y as s}from"./modules/shiki-mCy7fDAa.js";import{at as c,ot as l}from"./index-ORicUbh4.js";import{t as u}from"./takeaways-DUqqkkqD.js";var d={__name:`slides.md__slidev_437`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),n(u,t(i(r(c)(r(v),436))),{default:a(()=>[d[0]||=s(`ol`,null,[s(`li`,null,`Agents reduce context switching during incidents`),s(`li`,null,`Good ops agents collect evidence before recommending action`),s(`li`,null,`Remediation should flow through approved delivery paths`),s(`li`,null,`The agent itself needs observability and guardrails`)],-1),o(`
+Operations war lange eine Blackbox für viele Developer. Jetzt werden Ops-Tools für Agenten
+zugänglich – vorausgesetzt, unser Betrieb liefert lesbare Logs, Zugriff und Runbooks. Agenten
+sammeln Evidenz, schlagen Fixes über den normalen Delivery-Weg vor, und wir müssen sie selbst
+überwachen und begrenzen.
+`)]),_:1},16))}};export{d as default};
