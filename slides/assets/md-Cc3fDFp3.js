@@ -1,5 +1,0 @@
-import{H as e,St as t,b as n,bt as r,k as i,tt as a,x as o,y as s}from"./modules/shiki-mCy7fDAa.js";import{at as c,ot as l}from"./index-BPBDlHgf.js";import{t as u}from"./takeaways-BDGvSlbu.js";var d={__name:`slides.md__slidev_418`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),n(u,t(i(r(c)(r(v),417))),{default:a(()=>[d[0]||=s(`ol`,null,[s(`li`,null,`Agents help when CI/CD work is semantic or broken`),s(`li`,null,`Pipelines verify; agents explain and repair`),s(`li`,null,`Good outputs are PRs, comments, checks, and reports`),s(`li`,null,`Do not let agents bypass delivery safety nets`)],-1),o(`
-Der rote Faden: Dass ein Agent eine Pipeline schreibt, ist nichts Besonderes mehr. Neu ist, dass
-Agenten selbst in der Pipeline arbeiten – sie triagieren Fehler, reparieren Workflows und machen
-aus Issues PRs. Die Pipeline bleibt dabei die Instanz, die prüft und durchsetzt.
-`)]),_:1},16))}};export{d as default};

@@ -1,1 +1,0 @@
-var e=`/agentic-se-uebungen/slides/logos/github-copilot.svg`;export{e as t};

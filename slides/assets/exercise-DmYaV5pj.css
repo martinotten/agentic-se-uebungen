@@ -1,1 +1,0 @@
-.blink-overlay[data-v-9b811df5]{cursor:pointer;z-index:9999;background:#dc262640;animation:1s ease-in-out infinite blink-pulse-9b811df5;position:fixed;inset:0}@keyframes blink-pulse-9b811df5{0%,to{opacity:0}50%{opacity:1}}@media (prefers-reduced-motion:reduce){.blink-overlay[data-v-9b811df5]{opacity:1;animation:none}}

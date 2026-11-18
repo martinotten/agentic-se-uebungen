@@ -1,1 +1,0 @@
-var e=`/agentic-se-uebungen/slides/logos/openai.svg`;export{e as t};
